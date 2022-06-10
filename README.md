@@ -6,8 +6,8 @@
 
 # Requirements:
 Please ensure that you have downloaded the following files:
-* The .JAR file - ***Included in this repo***
-* The TestJava.yml file - ***Included in this repo***
+* The [.JAR file](https://github.com/r1337x/Unit-Testing-Tutorial/blob/main/junit-platform-console-standalone-1.6.0.jar) - ***Included in this repo***
+* The [TestJava.yml file](https://github.com/r1337x/Unit-Testing-Tutorial/blob/main/TestJava.yml) - ***Included in this repo***
 
 **NOTE: Please edit your .gitignore file & remove the .jar file extension from this file. If you do NOT remove this line from the .gitignore file, then the jar file will never be uploaded to GitHub.**
 
