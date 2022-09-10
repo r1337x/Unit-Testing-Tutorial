@@ -127,7 +127,7 @@ In most cases, your build will fail for the following reasons:
 * You have misspelt a file/class/folder name.
 * You have used incorrect casing (capital letter instead of small letter or vice versa)
 
-***NOTE: If you tests have passed locally on your NetBeans IDE then they should pass on GitHub as well. Likewise, if they're failing locally, they will fail on GitHub as well.***
+***NOTE: If your tests have passed locally on your NetBeans IDE then they should pass on GitHub as well. Likewise, if they're failing locally, they will fail on GitHub as well.***
 
 # Adding More Tests:
 To Add more tests to your project, refer to [THIS VIDEO](https://youtu.be/omSrINZdSDU)
